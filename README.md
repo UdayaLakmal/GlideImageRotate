@@ -1,5 +1,5 @@
 # GlideImageRotate
-## Android Rotate and Mirror for Glide set images as a Bitmap.
+## Android Rotate and Mirror for Glide images.
 Basic example implemantation of get image as a Bitmap via Glide (that we can save to a file or upload later) and rotate that Bitmap 90, 180 or 270 degrees and even mirrored.
 used  [Glide 4.8.0](https://github.com/bumptech/glide).
 ## Demo
